@@ -1,25 +1,36 @@
 <body>
-<head>    
-<body>
-h1{
-   <th>Gadalaiki<th>
-   <th>Patīk<th>
-   <th>Nepatīk>
-  </tr>
-  <tr>
-   <td>Rudens<td>
-   <td>Lapas<td>
-   <td>Lietus<td>
-  </tr>
-  <tr>
-   <td>Ziema<td>
-   <td>Sniegs<td>
-  </tr>
-  <tr>
-    <td>Vasara<td>
-  </tr>
-  <tr>
-   <td>Pavasaris<td>
+   <head>    
+   <body>
+    <h1>Pārbaudes darbs</h1>
+    <ol> 
+       <li>Drīz</li>
+       <li>būs</li>
+       <li>Lieldienas!</li>
+    </ol>
+    <table>
+           <tr>
+   
+                 <th>Gadalaiki<th>
+                 <th>Patīk<th>
+                 <th>Nepatīk>
+             </tr>
+             <tr>
+                 <td>Rudens<td>
+                 <td>Lapas<td>
+                 <td>Lietus<td>
+             </tr>
+             <tr>   
+                  <td>Ziema<td>
+                  <td>Sniegs<td>
+                  <td> </td>
+             </tr>
+             <tr>
+                  <td>Vasara<td>
+                  <td> </td>
+             </tr>
+             <tr>
+                 <td>Pavasaris<td>  
+                 <td> </td>
    
   
     color: rgb(236, 240, 18);
@@ -29,7 +40,10 @@ table, th, td {
     border: 3px solid rgb(16, 47, 223);
   }
 
-img{
+        <img src="bildes/zakis.png" >
+        </div>
+        </body>
+        </html>
       
     
   }
