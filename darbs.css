@@ -1,9 +1,24 @@
-body{
-    
-}
+<body>
+<head>    
+<body>
 h1{
+   <th>Gadalaiki<th>
+   <th>Patīk<th>
+   <th>Nepatīk>
+  </tr>
+  <tr>
+   <td>Rudens<td>
+   <td>Lapas<td>
+   <td>Lietus<td>
+  </tr>
+  <tr>
+   <td>Ziema<td>
+   <td>Sniegs<td>
+  </tr>
+  <tr>
+    <td>Vasara<td>
     color: rgb(236, 240, 18);
-    text-align:  ;
+    text-align:left;
 }
 table, th, td {
     border: 3px solid rgb(16, 47, 223);
